@@ -7,12 +7,12 @@ $CyberSecurity Consultant & Penetration Tester$
  
 I perform penetration testing and vulnerability assessments.  
 
-💡 Key Achievements:
+💡Key Achievements:
 
 > [<span style="color:purple">CBBH</span>] - Certified Bug Bounty Hunter\
-> [<span style="color:purple">eJPT</span>] - Junior Penetration Tester\
+> [<span style="color:purple">eJPT</span>] - eLearnSecurity Junior Penetration Tester\
 > [<span style="color:purple">CAPen</span>] - Certified AppSec Pentester (MERIT)\
-> [<span style="color:cyan">HackTheBox</span>] - Rank as Hacker\
+> [<span style="color:cyan">HackTheBox</span>] - https://app.hackthebox.com/profile/274711 \
 > [<span style="color:cyan">Blog</span>] - https://b1tm4r.github.io \
 > [<span style="color:cyan">Projects</span>] - https://github.com/b1tm4r
 
