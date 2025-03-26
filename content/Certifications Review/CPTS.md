@@ -1,4 +1,7 @@
 # **Certified Penetration Testing Specialist (CPTS) Review**
+
+---
+
 ## **Introduction**
 The **Certified Penetration Testing Specialist (CPTS)** certification is designed for cybersecurity professionals who seek to deepen their knowledge and practical skills in penetration testing. Unlike multiple-choice exams, CPTS demands hands-on proficiency, as candidates must demonstrate their ability to exploit vulnerabilities, document findings, and provide a comprehensive penetration test report.
 
