@@ -1,5 +1,4 @@
 # **Certified Penetration Testing Specialist (CPTS) Review**
-
 ---
 
 ## **Introduction**
