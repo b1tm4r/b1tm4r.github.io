@@ -5,12 +5,12 @@ tags:
 ---
 $CyberSecurity Consultant & Penetration Tester$
  
-- Executed comprehensive Vulnerability Assessments and Penetration Testing (VAPT) projects across diverse domains, including infrastructure, networks, web applications and APIs. 
-- Conducted in-depth security assessments for over 100 client applications and systems, providing actionable recommendations to strengthen their security posture. 
-- Performed black-box and grey-box VAPT exercises, leveraging advanced techniques to identify and remediate vulnerabilities with precision and efficiency. 
-Successfully managed end-to-end client engagements, maintaining clear communication, and delivering high-quality results within defined timelines. 
-- Conducted internal and external infrastructure security assessments, simulating real-world attack scenarios on Enterprise Active Directory (AD) environments, to evaluate and enhance security resilience. 
-- Demonstrated extensive knowledge of the OWASP Penetration Testing Checklist and delivered exceptional reporting with clarity and detail.
+- Executed comprehensive **Vulnerability Assessments and Penetration Testing (VAPT)** projects across diverse domains, including **infrastructure, networks, web applications, and APIs**.  
+- Conducted in-depth **security assessments** for over **100 client applications and systems**, providing actionable recommendations to strengthen their **security posture**.  
+- Performed **black-box and grey-box VAPT exercises**, leveraging advanced techniques to **identify and remediate vulnerabilities** with precision and efficiency. Successfully managed **end-to-end client engagements**, maintaining **clear communication** and delivering **high-quality results** within defined timelines.  
+- Conducted **internal and external infrastructure security assessments**, simulating **real-world attack scenarios** on **Enterprise Active Directory (AD) environments** to evaluate and enhance **security resilience**.  
+- Demonstrated extensive knowledge of the **OWASP Penetration Testing Checklist** and delivered **exceptional reporting** with clarity and detail.  
+
 ---
 ┌──(<span style="color:red">b1tm4r㉿root</span>)-[/ab0uT-m3]<br>└─# cat l1Nks.txt
 
