@@ -10,8 +10,8 @@ Having successfully passed CPTS on my second attempt, I can confidently say that
 
 CPTS is an intensive practical examination that requires candidates to compromise various systems, use multiple attack techniques, and submit a penetration test report.
 
-- First Attempt: My initial submission contained 178 pages, but due to some errors, I was unable to pass.
-- Second Attempt: I refined my approach and expanded my report to 236 pages, leading to my successful certification.
+- **First Attempt**: My initial submission contained 178 pages, but due to some errors, I was unable to pass.
+- **Second Attempt**: I refined my approach and expanded my report to 236 pages, leading to my successful certification.
 ***
 ## Key Takeaways
 
@@ -25,15 +25,15 @@ From my experience, Active Directory exploitation was the most challenging secti
 ***
 ## Why is AD the Hardest Part?
 
-- Complex Attack Chains: Unlike standalone systems, AD environments require multi-step attack chains that involve enumeration, privilege escalation, credential extraction, lateral movement, and persistence techniques.
-- Defensive Mechanisms: AD networks are often fortified with SIEM solutions, endpoint protection, and monitoring tools, making stealth and evasion tactics critical.
-Tool Proficiency: Mastering tools such as BloodHound, Mimikatz, Rubeus, Impacket, CrackMapExec, and PowerView is essential for success.
+- **Complex Attack Chains**: Unlike standalone systems, AD environments require multi-step attack chains that involve enumeration, privilege escalation, credential extraction, lateral movement, and persistence techniques.
+- **Defensive Mechanisms**: AD networks are often fortified with SIEM solutions, endpoint protection, and monitoring tools, making stealth and evasion tactics critical.
+- **Tool Proficiency**: Mastering tools such as BloodHound, Mimikatz, Rubeus, Impacket, CrackMapExec, and PowerView is essential for success.
 ***
 ## How to Prepare for AD in CPTS?
 
-- Build Your Own AD Lab: Set up a Windows domain environment with multiple domain controllers, users, and group policies to practice attack techniques in a real-world scenario.
-- Create a Custom Cheat Sheet: Document commands, tools, and attack workflows to streamline execution during the exam.
-- Revisit Course Material: Rewatch lectures and exercises related to AD attacks and defensive measures.
+- **Build Your Own AD Lab**: Set up a Windows domain environment with multiple domain controllers, users, and group policies to practice attack techniques in a real-world scenario.
+- **Create a Custom Cheat Sheet**: Document commands, tools, and attack workflows to streamline execution during the exam.
+- **Revisit Course Material**: Rewatch lectures and exercises related to AD attacks and defensive measures.
 ***
 ## General Study Tips for CPTS Success
 
@@ -49,9 +49,9 @@ Include bypass techniques for endpoint security solutions.
 
 ### Focus on Report Writing
 
-Clarity & Detail: Your penetration test report should not only describe the attacks but also explain the impact, remediation, and technical steps.
-Structure & Formatting: Use headings, subheadings, and screenshots to create a professional report.
-Accuracy: Ensure all findings are well-documented, as incorrect or incomplete reporting can result in failure.
+- **Clarity & Detail**: Your penetration test report should not only describe the attacks but also explain the impact, remediation, and technical steps.
+- **Structure & Formatting**: Use headings, subheadings, and screenshots to create a professional report.
+- **Accuracy**: Ensure all findings are well-documented, as incorrect or incomplete reporting can result in failure.
 ***
 ## Final Thoughts
 
