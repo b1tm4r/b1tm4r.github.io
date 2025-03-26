@@ -1,4 +1,4 @@
-# **Certified Penetration Testing Specialist Review**
+# **Certified Penetration Testing Specialist - Review**
 
 ---
 
