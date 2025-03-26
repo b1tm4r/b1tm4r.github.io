@@ -1,4 +1,4 @@
-# **Certified Red Team Professional (CRTP) Review**
+# **Certified Red Team Professional Review**
 
 ---
 
