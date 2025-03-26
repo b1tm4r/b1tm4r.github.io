@@ -1,5 +1,7 @@
 # **Certified Bug Bounty Hunter (CBBH) Review: A Comprehensive Guide**  
 
+---
+
 ## **Introduction**  
 The **Certified Bug Bounty Hunter (CBBH)** certification is a well-structured course designed to equip cybersecurity professionals with the necessary skills to discover and exploit vulnerabilities in web applications. Unlike traditional penetration testing exams, which often involve a simulated enterprise environment, CBBH focuses specifically on **real-world bug bounty techniques** that are commonly used to find security flaws in web applications.  
 
