@@ -14,7 +14,7 @@ I perform penetration testing and vulnerability assessments.
 [+][<span style="color:cyan">LinkedIn</span>] - https://www.linkedin.com/in/mariano-m/ \
 [+][<span style="color:cyan">Projects</span>] - https://github.com/b1tm4r
 
-┌──(<span style="color:red">b1tm4r㉿root</span)-[/C3rts]<br>└─# cat c3rtific4t1ons.txt
+┌──(<span style="color:red">b1tm4r㉿root</span>)-[/C3rts]<br>└─# cat c3rtific4t1ons.txt
 
 [+][<span style="color:purple">CPTS</span>] - Certified Penetration Testing Specialist\
 [+][<span style="color:purple">CRTP</span>] - Certified Red Team Professional\
