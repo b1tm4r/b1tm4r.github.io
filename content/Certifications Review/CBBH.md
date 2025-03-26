@@ -1,4 +1,4 @@
-# **Certified Bug Bounty Hunter (CBBH) Review**  
+# **Certified Bug Bounty Hunter Review**  
 
 ---
 
