@@ -1,5 +1,7 @@
 # **Certified Red Team Professional (CRTP) Review**
 
+---
+
 ## **Introduction**
 The **Certified Red Team Professional (CRTP)** certification is a highly specialized penetration testing certification that focuses entirely on **Active Directory (AD) security**. Unlike general penetration testing certifications, CRTP is designed to validate a candidate’s ability to **understand, attack, and escalate privileges in an enterprise AD environment** using real-world tactics.
 
