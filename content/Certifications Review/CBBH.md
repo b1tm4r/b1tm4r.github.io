@@ -1,4 +1,4 @@
-# **Certified Bug Bounty Hunter Review**  
+# **Certified Bug Bounty Hunter - Review**  
 
 ---
 
