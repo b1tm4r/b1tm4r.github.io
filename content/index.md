@@ -11,7 +11,7 @@ $CyberSecurity Consultant & Penetration Tester$
 - Performed **internal and external infrastructure security assessments**, evaluating and strengthening **security resilience** through **realistic attack simulations** against **high-value targets** in **regulated industries**.
 - Delivered **executive and technical reports** tailored to **security teams** and **C-level stakeholders**, enabling **risk-based remediation prioritisation**.
 - Applied the **OWASP Penetration Testing Guide** and **PTES** as the standard methodology across all engagements, ensuring **consistent coverage** and **reproducible results**.
-- 
+  
 ---
 ┌──(<span style="color:red">b1tm4r㉿root</span>)-[/ab0uT-m3]<br>└─# cat l1Nks.txt
 
