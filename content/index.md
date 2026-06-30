@@ -5,12 +5,13 @@ tags:
 ---
 $CyberSecurity Consultant & Penetration Tester$
  
-- Executed comprehensive **Vulnerability Assessments and Penetration Testing (VAPT)** projects across diverse domains, including **infrastructure, networks, web applications, and APIs**.  
-- Conducted in-depth **security assessments** for over **100 client applications and systems**, providing actionable recommendations to strengthen their **security posture**.  
-- Performed **black-box and grey-box VAPT exercises**, leveraging advanced techniques to **identify and remediate vulnerabilities** with precision and efficiency. Successfully managed **end-to-end client engagements**, maintaining **clear communication** and delivering **high-quality results** within defined timelines.  
-- Conducted **internal and external infrastructure security assessments**, simulating **real-world attack scenarios** on **Enterprise Active Directory (AD) environments** to evaluate and enhance **security resilience**.  
-- Demonstrated extensive knowledge of the **OWASP Penetration Testing Checklist** and delivered **exceptional reporting** with clarity and detail.  
-
+- **Led 100+ VAPT engagements** across **infrastructure, networks, web applications, and APIs** for clients in the **banking, industrial, energy, healthcare, government, and critical infrastructure** sectors, consistently delivering **actionable remediation guidance** for **critical findings** in **highly regulated environments**.
+- **Identified and exploited critical vulnerabilities** leading to **Remote Code Execution (RCE)**, **injection flaws**, **broken access controls**, **server-side attacks**, and **client-side exploitation vectors**.
+- Conducted **black-box** and **grey-box** security assessments of **web applications**, as well as **Red Team exercises** against **enterprise Active Directory** environments, simulating **real-world attack chains** including **privilege escalation**, **lateral movement**, and **network pivoting**.
+- Performed **internal and external infrastructure security assessments**, evaluating and strengthening **security resilience** through **realistic attack simulations** against **high-value targets** in **regulated industries**.
+- Delivered **executive and technical reports** tailored to **security teams** and **C-level stakeholders**, enabling **risk-based remediation prioritisation**.
+- Applied the **OWASP Penetration Testing Guide** and **PTES** as the standard methodology across all engagements, ensuring **consistent coverage** and **reproducible results**.
+- 
 ---
 ┌──(<span style="color:red">b1tm4r㉿root</span>)-[/ab0uT-m3]<br>└─# cat l1Nks.txt
 
@@ -23,7 +24,7 @@ $CyberSecurity Consultant & Penetration Tester$
 
 [+][<span style="color:purple">CPTS</span>] - Certified Penetration Testing Specialist\
 [+][<span style="color:purple">CRTP</span>] - Certified Red Team Professional\
-[+][<span style="color:purple">CBBH</span>] - Certified Bug Bounty Hunter\
+[+][<span style="color:purple">CWES</span>] - Certified Web Exploitation Specialist\
 [+][<span style="color:purple">eJPT</span>] - eLearnSecurity Junior Penetration Tester\
 [+][<span style="color:purple">MCRTA</span>] - Multi-Cloud Red Teaming Analyst\
 [+][<span style="color:purple">CAPen</span>] - Certified AppSec Pentester
